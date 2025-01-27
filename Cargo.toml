@@ -42,10 +42,10 @@ base32ct = "0.2.0"
 base64 = "0.22.0"
 base64ct = "1.6.0"
 based64 = "0.4.5"
-const-str = "0.5.3"
+const-str = "0.6.0"
 data-encoding = "2.3.3"
 faster-hex = "0.10.0"
-getrandom = { version = "0.2", features = ["js"] }
+getrandom = { version = "0.3", features = ["js"] }
 hex = "0.4.3"
 radix64 = { version = "0.6.2", default-features = false }
 rand = "0.8.5"
